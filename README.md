@@ -1,5 +1,5 @@
 
-![dev-scripts banner](./docs/banner.png)
+![dev-scripts banner](./banner.png)
 
 # 🛠️ Dev Scripts Collection
 
