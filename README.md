@@ -1,5 +1,10 @@
-
 ![dev-scripts banner](./banner.png)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell%20Scripts-Bash-green.svg" alt="Shell Scripts">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg" alt="Made with Love">
+</p>
 
 # 🛠️ Dev Scripts Collection
 
